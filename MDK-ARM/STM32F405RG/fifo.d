@@ -1,0 +1,11 @@
+stm32f405rg\fifo.o: ..\components\support\fifo.c
+stm32f405rg\fifo.o: ..\components\support\fifo.h
+stm32f405rg\fifo.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32f405rg\fifo.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f405rg\fifo.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32f405rg\fifo.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32f405rg\fifo.o: ..\components\support\sys.h
+stm32f405rg\fifo.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+stm32f405rg\fifo.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+stm32f405rg\fifo.o: ..\components\support\errno.h
+stm32f405rg\fifo.o: ../components/algorithm/my_math.h

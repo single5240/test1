@@ -1,0 +1,12 @@
+stm32f405rg\segger_sysview.o: ..\components\systemview\SEGGER_SYSVIEW.c
+stm32f405rg\segger_sysview.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32f405rg\segger_sysview.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32f405rg\segger_sysview.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+stm32f405rg\segger_sysview.o: ..\components\systemview\SEGGER_SYSVIEW_Int.h
+stm32f405rg\segger_sysview.o: ..\components\systemview\SEGGER_SYSVIEW.h
+stm32f405rg\segger_sysview.o: ..\components\systemview\SEGGER.h
+stm32f405rg\segger_sysview.o: ..\components\systemview\Global.h
+stm32f405rg\segger_sysview.o: ..\components\systemview\SEGGER_SYSVIEW_ConfDefaults.h
+stm32f405rg\segger_sysview.o: ..\components\systemview\SEGGER_SYSVIEW_Conf.h
+stm32f405rg\segger_sysview.o: ..\components\systemview\SEGGER_RTT_Conf.h
+stm32f405rg\segger_sysview.o: ..\components\systemview\SEGGER_RTT.h

@@ -1,0 +1,11 @@
+stm32f405rg\segger_rtt_syscalls_keil.o: ..\components\systemview\SEGGER_RTT_Syscalls_KEIL.c
+stm32f405rg\segger_rtt_syscalls_keil.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32f405rg\segger_rtt_syscalls_keil.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32f405rg\segger_rtt_syscalls_keil.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32f405rg\segger_rtt_syscalls_keil.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\rt_sys.h
+stm32f405rg\segger_rtt_syscalls_keil.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\rt_misc.h
+stm32f405rg\segger_rtt_syscalls_keil.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32f405rg\segger_rtt_syscalls_keil.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f405rg\segger_rtt_syscalls_keil.o: ..\components\systemview\SEGGER_RTT.h
+stm32f405rg\segger_rtt_syscalls_keil.o: ..\components\systemview\SEGGER_RTT_Conf.h
+stm32f405rg\segger_rtt_syscalls_keil.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
